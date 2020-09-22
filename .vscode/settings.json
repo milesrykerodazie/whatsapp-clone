@@ -1,0 +1,7 @@
+{
+    "html.format.endWithNewline": true,
+    "html.format.indentHandlebars": true,
+    "html.format.indentInnerHtml": true,
+    "prettier.insertPragma": true,
+    "editor.formatOnSave": true
+}
